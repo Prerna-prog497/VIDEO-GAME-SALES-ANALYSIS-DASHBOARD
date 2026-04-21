@@ -50,7 +50,7 @@ Lists the highest-selling video games globally for quick comparison.
 
 ## 📷 Dashboard Preview
 
-![Video Game Sales Dashboard](dashboard3.png)
+![Video Game Sales Dashboard](dasboard3.png)
 
 ---
 
